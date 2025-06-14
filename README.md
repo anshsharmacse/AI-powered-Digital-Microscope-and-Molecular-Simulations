@@ -53,10 +53,12 @@ A unified platform integrating AI-based molecular simulation and digital microsc
 
 ---
 
-## Sneak Peek
+## 3D-2D Visualization using Graph Neural Network
 
-![Sample Visualization](![image](https://github.com/user-attachments/assets/f219dda6-9ad5-4991-9f1e-edcc9b29232e)
-)
+![image](https://github.com/user-attachments/assets/77c90c0f-cf21-4d15-9ad7-b45efddfe4a7)
+![image](https://github.com/user-attachments/assets/710e939b-cbe9-4cb5-b4a5-053c5e0ff81a)
+
+
 
 ---
 
